@@ -95,6 +95,8 @@ declare type TransformationTypeKey =
   | "recolor"
   | "removeBackground";
 
+
+
 // ====== URL QUERY PARAMS
 declare type FormUrlQueryParams = {
   searchParams: string;
